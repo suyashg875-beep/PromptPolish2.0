@@ -1,0 +1,6 @@
+{
+  "name": "PromptPolish",
+  "description": "The Grammarly for AI prompts. Real-time underlines, live scoring, instant suggestions, and smart rewrites to craft world-class AI prompts for ChatGPT, Gemini, Claude, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
